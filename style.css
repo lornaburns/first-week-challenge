@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: slategrey;
+}
+header {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: navy;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.centered-links {
+    margin-left: 150px;
+    margin-right: 75px;
+   
+}
+
+.header-link {
+    float: left;
+    color: white;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    
+}
+
+.center {
+    margin-left: 175px;
+    margin-right: 175px;
+    width: 75%;
+    margin-top: 100px;
+    margin-bottom: 25px;
+
+}
+
+#caption {
+    text-align: center;
+}
+
+footer {
+    margin-bottom: 50px;
+}
